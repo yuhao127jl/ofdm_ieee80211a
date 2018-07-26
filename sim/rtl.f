@@ -7,6 +7,7 @@
 
 ../ofdm_rtl/receiver/
 ../ofdm_rtl/receiver/data_descramble.v
+../ofdm_rtl/receiver/data_descramble.v
 
 
 
